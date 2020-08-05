@@ -1,16 +1,41 @@
-### Hi there 👋
+![Helloworld](ezgif.com-video-to-gif.gif)
 
-<!--
-**error404-sp/error404-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Shreyasi *(error404_sp)*
 
-Here are some ideas to get you started:
+**I am interested in Web Development**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I :heart: making CSS art and Graphic Designing. 
+* I have commited to the ***100 Days of code*** 
+* It's my Day :five::eight: today
+## Here are my tools
+`HTML`
+`CSS`
+`Javascript`
+`Python`
+`Java`
+`Git/Github`
+
+### *Here is my  [Website](https://shreyasi.netlify.app/)*
+
+### You can find me on 
+
+### [Twitter](https://twitter.com/error404_sp)
+### [Codepen](https://codepen.io/error404_sp)
+### [Linkedin](https://www.linkedin.com/in/shreyasi-patil-54b18a190)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
