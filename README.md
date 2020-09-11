@@ -2,7 +2,7 @@
 
 # I'm Shreyasi *(error404_sp)*
 
-**I am interested in Web Development**
+**I am a Web Development enthusiast**
 ---
 
 * I :heart: making CSS art and Graphic Designing. 
