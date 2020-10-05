@@ -7,7 +7,7 @@
 
 * I :heart: making CSS art and Graphic Designing. 
 * I have commited to the ***100 Days of code*** 
-* It's my Day :nine::nine: today
+* It's my Day :one::zero::zero today
 ## Here are my tools
 `HTML`
 `CSS`
