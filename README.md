@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyasi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=error404-sp" alt="error404-sp" /> </p>
-
+<br>
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [https://shreyasi.netlify.app/](https://shreyasi.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)
 
-- 📝 I regulary write articles on [https://dev.to/error404sp/join-a-developer-s-community-3gk](https://dev.to/error404sp/join-a-developer-s-community-3gk)
+- 📝 I sometimes write articles on [dev.to](https://dev.to/error404sp/)
 
 - 💬 Ask me about **CSS**
 
