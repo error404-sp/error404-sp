@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyasi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Javascript, React** and its **Day 2 
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)
 
 - 📝 I sometimes write articles on [hashnode](https://error404-sp.hashnode.dev/)
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **CSS,HTML and Accessibility**
 
 - 📫 How to reach me **shreyasipatil404@gmail.com**
 
