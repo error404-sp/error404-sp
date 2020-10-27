@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)
 
-- 📝 I sometimes write articles on [dev.to](https://dev.to/error404sp/)
+- 📝 I sometimes write articles on [hashnode](https://error404-sp.hashnode.dev/)
 
 - 💬 Ask me about **CSS**
 
