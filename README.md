@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyasi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, React** and its **Day 102 of #100Daysofcode challenge**.
+- 🌱 I’m currently learning **Javascript, React** and its **Day 103 of #100Daysofcode challenge**.
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)
 
