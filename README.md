@@ -10,7 +10,7 @@
 
 - 🎥 I sometimes do live coding streams on [twitch](https://www.twitch.tv/error404_sp)
 
-- 💬 Ask me about **Html,CSS,Javascript,React,NodeJs**
+- 💬 Ask me about **Html,CSS,Javascript,React,Design**
 
 - 📫 How to reach me **shreyasipatil404@gmail.com**
 
