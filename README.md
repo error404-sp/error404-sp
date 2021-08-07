@@ -28,6 +28,6 @@
 <br />
   <br />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=error404-sp&&theme=react&&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=error404-sp&&hide_border=true"
   />
 
