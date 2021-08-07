@@ -15,9 +15,9 @@
 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreyasipatil404@gmail.com&su=Hey Shreyasi, just visited your Github!" target="_blank"> <b>shreyasipatil404@gmail.com</b></a>
 
 <p>
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
-<p<a display:inline-block align="center" href="https://codepen.io/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="error404_sp" height="30" width="40" /></a>
+<p><a display:inline-block align="center" href="https://codepen.io/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="error404_sp" height="30" width="40" /></a>
 <a  href="https://dev.to/error404sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="error404sp" height="30" width="40" /></a>
 <a  href="https://twitter.com/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="error404_sp" height="30" width="40" /></a>
 <a  href="https://linkedin.com/in/shreyasi-patil-54b18a190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreyasi-patil-54b18a190" height="30" width="40" /></a>
