@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyasi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<H3 align="center">A third year engineering undergraduate pursuing Information technology 
+<h3 align="center">A third year engineering undergraduate pursuing Information technology</h3> 
 
 - 🌱 I’m currently learning **Javascript, React**
 
