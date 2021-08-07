@@ -24,10 +24,10 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error404-sp&show_icons=true" alt="error404-sp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error404-sp&show_icons=true&theme=react&hide_border=true" alt="error404-sp" /></p>
 <br />
   <br />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=error404-sp"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=error404-sp&&theme=react&&hide_border=true"
   />
 
