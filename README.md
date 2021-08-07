@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shreyasi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">A third year engineering undergraduate pursuing Information technology</h3> 
-<p align="center">&nbsp;>
-- 🌱 I’m currently learning **Javascript, React**
+<p align="center">
+🌱 I’m currently learning **Javascript, React**</p>
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)
+<p align="center">&nbsp;👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)</p>
 
-- 📝 I sometimes write articles on [hashnode](https://error404-sp.hashnode.dev/)
+<p align="center">&nbsp;📝 I sometimes write articles on [hashnode](https://error404-sp.hashnode.dev/)</p>
 
-- 🎥 I sometimes do live coding streams on [twitch](https://www.twitch.tv/error404_sp)
+<p align="center">&nbsp;🎥 I sometimes do live coding streams on [twitch](https://www.twitch.tv/error404_sp)</p>
 
-- 💬 Ask me about **Html,CSS,Javascript,React,Design**
+<p align="center">&nbsp;💬 Ask me about **Html,CSS,Javascript,React,Design**`
 
 - 📫 How to reach me **shreyasipatil404@gmail.com**
 </p>
