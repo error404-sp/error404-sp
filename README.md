@@ -10,9 +10,9 @@
 
 <p align="center">&nbsp;🎥 I sometimes do live coding streams on [twitch](https://www.twitch.tv/error404_sp)</p>
 
-<p align="center">&nbsp;💬 Ask me about **Html,CSS,Javascript,React,Design**`
+<p align="center">&nbsp;💬 Ask me about **Html,CSS,Javascript,React,Design**
 
-- 📫 How to reach me **shreyasipatil404@gmail.com**
+<p align="center">&nbsp;📫 How to reach me **shreyasipatil404@gmail.com**
 </p>
 <p align="center">
 <h3 align="center">Connect with me:</h3>
