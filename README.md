@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyasi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">A third year engineering undergraduate pursuing Information technology</h3> 
-
+<p align="center">&nbsp;>
 - 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)
@@ -13,7 +13,7 @@
 - 💬 Ask me about **Html,CSS,Javascript,React,Design**
 
 - 📫 How to reach me **shreyasipatil404@gmail.com**
-
+</p>
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 
