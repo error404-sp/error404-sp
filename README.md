@@ -2,18 +2,18 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">A third year engineering undergraduate pursuing Information technology</h3> 
 <p align="center">
-🌱 I’m currently learning **Javascript, React**</p>
+  🌱 I’m currently learning <b>Javascript, React</b></p>
+<p align="center">
+👨‍💻 All of my projects are available on my <a href="https://shreyasi.netlify.app/"><b>Portfolio</b></a></p>
+<p align="center">  
+  📝 I sometimes write articles on <a href="https://error404-sp.hashnode.dev/"><b>Hashnode</b></a></p>
+<p align="center">
+  🎥 I sometimes do live coding streams on <a href="https://www.twitch.tv/error404_sp"><b>Twitch</b></a></p>
+<p align="center">
+  💬 Ask me about <b>HTML | CSS | Javascript | React | Design</b></p>
+<p align="center">
+📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreyasipatil404@gmail.com&su=Hey Shreyasi, just visited your Github!" target="_blank"> shreyasipatil404@gmail.com</a>
 
-<p align="center">&nbsp;👨‍💻 All of my projects are available on my [portfolio](https://shreyasi.netlify.app/)</p>
-
-<p align="center">&nbsp;📝 I sometimes write articles on [hashnode](https://error404-sp.hashnode.dev/)</p>
-
-<p align="center">&nbsp;🎥 I sometimes do live coding streams on [twitch](https://www.twitch.tv/error404_sp)</p>
-
-<p align="center">&nbsp;💬 Ask me about **Html,CSS,Javascript,React,Design**
-
-<p align="center">&nbsp;📫 How to reach me **shreyasipatil404@gmail.com**
-</p>
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 
