@@ -16,12 +16,13 @@
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
-<a display:inline-block align="center" href="https://codepen.io/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="error404_sp" height="30" width="40" /></a>
+
+<p align="center">&nbsp;<a display:inline-block align="center" href="https://codepen.io/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="error404_sp" height="30" width="40" /></a>
 <a display:inline-block align="center" href="https://dev.to/error404sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="error404sp" height="30" width="40" /></a>
 <a display:inline-block align="center" href="https://twitter.com/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="error404_sp" height="30" width="40" /></a>
 <a display:inline-block align="center" href="https://linkedin.com/in/shreyasi-patil-54b18a190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreyasi-patil-54b18a190" height="30" width="40" /></a>
 <a display:inline-block align="center" href="https://instagram.com/error404_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="error404_sp" height="30" width="40" /></a>
-</p>
+</p></p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error404-sp&show_icons=true&theme=react&hide_border=true" alt="error404-sp" /></p>
