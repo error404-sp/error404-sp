@@ -12,7 +12,7 @@
 <p align="center">
   💬 Ask me about <b>HTML | CSS | Javascript | React | Design</b></p>
 <p align="center">
-📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreyasipatil404@gmail.com&su=Hey Shreyasi, just visited your Github!" target="_blank"> shreyasipatil404@gmail.com</a>
+📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreyasipatil404@gmail.com&su=Hey Shreyasi, just visited your Github!" target="_blank"> <b>shreyasipatil404@gmail.com</b></a>
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
