@@ -4,7 +4,7 @@
 <p>
   🌱 I’m currently learning <b>Javascript, React</b></p>
 <p>
-👨‍💻 All of my projects are available on my <a href="https://shreyasi.netlify.app/"><b>Portfolio</b></a></p>
+👨‍💻 All of my projects are available on my <a href="https://shreyasi-portfolio.netlify.app/"><b>Portfolio</b></a></p>
 <p>  
   📝 I sometimes write articles on <a href="https://error404-sp.hashnode.dev/"><b>Hashnode</b></a></p>
 <p>
