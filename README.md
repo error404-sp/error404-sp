@@ -2,7 +2,7 @@
 <h3>A frontend developer from India</h3>
 <h3>A final year engineering undergraduate pursuing Information technology</h3> 
 <p>
-  🌱 I’m currently learning <b>Javascript, React</b></p>
+  🌱 I’m currently learning <b>React Native, Typescript</b></p>
 <p>
 👨‍💻 All of my projects are available on my <a href="https://shreyasi-portfolio.netlify.app/"><b>Portfolio</b></a></p>
 <p>  
