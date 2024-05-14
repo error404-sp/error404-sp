@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Shreyasi</h1>
 <h3>A frontend developer from India</h3>
-<h3>A final year engineering undergraduate pursuing Information technology</h3> 
+<h3>Software Developer @ Zeus Learning </h3> 
 <p>
   🌱 I’m currently learning <b>React Native, Typescript</b></p>
 <p>
@@ -26,11 +26,10 @@
 </p></p>
 <h3>If you like my work, support me</h3>
 <a href="https://www.buymeacoffee.com/shreyasi404" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=error404-sp&show_icons=true&theme=react&hide_border=true" alt="error404-sp" /></p>
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=error404-sp&&theme=react&&hide_border=true"
-  /></p>
+ <p> <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=false">    <img  alt="error404-sp's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/error404-sp?cardType=octocat&theme=github-dark&preferLogin=false" />  </a> </p>
+ <p>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=error404-sp&theme=dark" alt="GitHub Streak" /></a>
+ </p>
   
   ![](https://komarev.com/ghpvc/?username=error404-sp&color=green)
 
