@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shreyasi</h1>
-<h3>Software Developer @ Zeus Learning </h3> 
+<h3>Software Developer </h3> 
 <p>
   🌱 I’m currently learning <b>React Native, Typescript</b></p>
 <p>
